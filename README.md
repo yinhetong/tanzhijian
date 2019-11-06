@@ -1,6 +1,10 @@
 # 弹指间网络安全协会
-GitHub——全球最大同性交友网站
 弹指间网络安全协会专用仓库，用于提交作业和下载资料
+
+## 作业
+
+- [第一次作业(/Homework/Task1)](/Homework/Task1)
+
 
 ## 目录结构
 
@@ -21,10 +25,6 @@ GitHub——全球最大同性交友网站
 
 ```
 
-## 作业
-
-- [第一次作业(/Homework/Task1)](/Homework/Task1)
-
 ## 提交
 
 ### 首次提交作业
@@ -42,9 +42,7 @@ GitHub——全球最大同性交友网站
 
 ### 再次提交作业
 
-1. 将主仓库中的最新内容同步到你账号中 `Fork` 来的仓库，主要有两种方式，请自行参照对应的文章来操作，前者更方便一些。
-- [反向PR](https://www.zhihu.com/question/20393785/answer/30725725) 
-- [本地更新](https://www.zhihu.com/question/28676261/answer/44606041)
+1. 将主仓库中的最新内容同步到你账号中 `Fork` 来的仓库，主要有两种方式，请自行参照对应的文章来操作，前者更方便一些。 [反向PR](https://www.zhihu.com/question/20393785/answer/30725725)  [本地更新](https://www.zhihu.com/question/28676261/answer/44606041)
 2. `Pull`：如果使用反向pr，请用pull及时更新本地你电脑上的项目文件夹，之后同首次操作。
 3. `/Upload/Username/Task*/ 按照要求完成作业
 4. `Add -> Commit`
