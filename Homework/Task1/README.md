@@ -11,10 +11,11 @@
 - 学习[Github](https://github.com)的基本使用（`Fork`，`Clone`，`Pull requests`，`Star`，`Issues` 等基本操作）
 - 下载并安装Git命令行工具，掌握常用的Git命令
 - 了解开源软件和常见开源协议 （`Apache`,`BSD`,`GPL`,`LGPL`,`MIT`)
-- 使用Github Pages发布静态网站（可选） 
-[Git教程1](https://www.liaoxuefeng.com/wiki/896043488029600) 
-[Git教程2](https://www.runoob.com/git/git-tutorial.html)  
-[Git教程3](https://git-scm.com/book/zh/)  
+- 使用Github Pages发布静态网站（可选）  
+
+[Git教程1](https://www.liaoxuefeng.com/wiki/896043488029600)   
+[Git教程2](https://www.runoob.com/git/git-tutorial.html)    
+[Git教程3](https://git-scm.com/book/zh/)   
 [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)  
 [Github的学习和使用](https://www.e-learn.cn/content/qita/974817)  
 [开源软件是什么？有哪些？](http://c.biancheng.net/view/2943.html)  
