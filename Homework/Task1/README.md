@@ -22,6 +22,7 @@
 
 - 掌握 Markdown 语法  
 [Markdown 语法](https://www.runoob.com/markdown/md-tutorial.html)  
+[GitHub Flavored Markdown](https://www.jianshu.com/p/40ba812dd973)  
 [Mastering Markdown - Github Guides](https://guides.github.com/features/mastering-markdown)  
 ### Linux:
 
