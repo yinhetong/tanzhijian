@@ -3,7 +3,7 @@
 
 ## 作业
 
-- [TASK 1 Git团队合作开发入门 & Linux入门-01(Homework/Task1)](/Homework/Task1)
+- [TASK 1 Git团队合作开发入门 & Linux入门-01 (Homework/Task1)](/Homework/Task1)
 
 
 ## 目录结构
