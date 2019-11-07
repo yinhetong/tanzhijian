@@ -2,7 +2,7 @@
 
 - 了解下世界上最大的软件项目托管（同性交友）网站？
 - 初步学习Linux，很多任务在Linux命令行环境下下完成更加方便
-- 学会搜索引擎，本次作业中90%的问题都能通过搜索引擎解决
+- 学会使用搜索引擎，本次作业中你遇到的90%的问题都能通过搜索引擎解决
 
 ## 任务
 
@@ -26,22 +26,22 @@
 [Mastering Markdown - Github Guides](https://guides.github.com/features/mastering-markdown)  
 ### Linux:
 
-- 了解Linux的发展历史
-- 了解常见的Linux操作系统发行版都应用在什么地方
+- 了解Linux和Unix操作系统的发展历史
+- 了解常见的Linux发行版都应用在什么地方
 
 `CentOS`,`Ubuntu`,`Debian`,`RedHat Linux`,`Arch`,`Alpine`,`OpenWrt`,`Kali`
 
-- 使用虚拟机或云服务器本地安装Linux发行版 (推荐 `CentOS7`)  
+- 使用虚拟机或云服务器安装Linux发行版 (推荐 `CentOS7` ,虚拟机下推荐安装GUI)  
 
 虚拟机可选`VMvare Workstation`,`Oracle VM VirtualBox` 或 `Hyper-V`，配置虚拟机时，简单了解下虚拟机的几种联网方法  
-如果你喜欢折腾，可以购买一个云服务器（VPS），推荐阿里云学生机，1 CPU，512MB内存的VPS对于学习Linux，搭建小型网站完全够了
+如果你喜欢折腾，可以购买一个云服务器（VPS），推荐阿里云学生机，1 CPU，512MB内存的VPS对于学习Linux，搭建小型网站完全够用
 你甚至可以在你的手机上使用Linux（通过Termux），或者为你的路由器安装Openwrt操作系统  
 [启用CPU虚拟化](https://www.jianshu.com/p/3faa72872130)  
 [VMware虚拟机安装Linux系统(详解版)](http://c.biancheng.net/view/714.html)  
 [Win10下使用VMware Workstation Pro15 安装CentOS7](https://chacode.cn/smile/linux/213)  
 [买了一台云服务器到底能干嘛？](https://www.zhihu.com/question/27205559)  
 
-- 了解如何在VPS，虚拟机和本地电脑之间传输文件
+- 学习如何在VPS，虚拟机和本地电脑之间传输文件
 - 了解 Linux 系统目录结构（各个目录是干什么的）
 - 常用的快捷键
 - 使用man和--help查看某个命令的使用方法
@@ -71,6 +71,8 @@
 `cat`,`ls`,`pwd`,`cd`,`mv`,`cd`,`vi`,`rm`,`rmdir`,`tar`,`touch`,`mkdir`,`head`,`tail`,`ln`,`history`
 
 9. 学习Github和Git的使用之后，`Fork`-> `Clone` 本项目到你的电脑上，创建 `Upload/Username/Task1/README.md` (Username为你的Github用户名)，使用Markdown语法完成本次作业,完成作业后pr到[Github](https://github.com/yyxkj2013/tanzhijian)仓库中
+
+---
 
 本次作业截至时间2019/11/11 23:59
 
