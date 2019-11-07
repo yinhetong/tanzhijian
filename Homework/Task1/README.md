@@ -11,8 +11,8 @@
 - 学习[Github](https://github.com)的基本使用（`Fork`，`Clone`，`Pull requests`，`Star`，`Issues` 等基本操作）
 - 下载并安装Git命令行工具，掌握常用的Git命令
 - 了解开源软件和常见开源协议 （`Apache`,`BSD`,`GPL`,`LGPL`,`MIT`)
-- Github Pages
-[Git教程1](https://www.liaoxuefeng.com/wiki/896043488029600)  
+- 使用Github Pages发布静态网站（可选） 
+[Git教程1](https://www.liaoxuefeng.com/wiki/896043488029600) 
 [Git教程2](https://www.runoob.com/git/git-tutorial.html)  
 [Git教程3](https://git-scm.com/book/zh/)  
 [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)  
@@ -20,7 +20,7 @@
 [开源软件是什么？有哪些？](http://c.biancheng.net/view/2943.html)  
 [开源协议是什么？有哪些？如何选择？](http://c.biancheng.net/view/2947.html)  
 
-- 掌握 Markdown 语法
+- 掌握 Markdown 语法  
 [Markdown 语法](https://www.runoob.com/markdown/md-tutorial.html)  
 [Mastering Markdown - Github Guides](https://guides.github.com/features/mastering-markdown)  
 ### Linux:
@@ -53,7 +53,7 @@
 
 你可以通过ssh.exe命令行工具或者XShell，Putty第三方软件连接你的远程服务器
 
-- 如果你安装了Linux桌面，熟悉Linux的桌面环境和常用工具的使用，并尝试在Linux上安装QQ
+- 如果你安装了Linux桌面，熟悉Linux的桌面环境和常用工具的使用，并尝试在Linux上安装QQ  
 
 [QQ·Linux版下载](https://im.qq.com/linuxqq/index.html)  
 [命令行界面 （CLI）、终端 （Terminal）、Shell、TTY的区别](https://www.cnblogs.com/sddai/p/9769086.html)  
