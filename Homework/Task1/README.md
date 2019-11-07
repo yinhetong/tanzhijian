@@ -12,17 +12,17 @@
 - 下载并安装Git命令行工具，掌握常用的Git命令
 - 了解开源软件和常见开源协议 （`Apache`,`BSD`,`GPL`,`LGPL`,`MIT`)
 - Github Pages
-[Git教程1](https://www.liaoxuefeng.com/wiki/896043488029600)
-[Git教程2](https://www.runoob.com/git/git-tutorial.html)
-[Git教程3](https://git-scm.com/book/zh/)
-[图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
-[Github的学习和使用](https://www.e-learn.cn/content/qita/974817)
-[开源软件是什么？有哪些？](http://c.biancheng.net/view/2943.html)
-[开源协议是什么？有哪些？如何选择？](http://c.biancheng.net/view/2947.html)
+[Git教程1](https://www.liaoxuefeng.com/wiki/896043488029600)  
+[Git教程2](https://www.runoob.com/git/git-tutorial.html)  
+[Git教程3](https://git-scm.com/book/zh/)  
+[图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)  
+[Github的学习和使用](https://www.e-learn.cn/content/qita/974817)  
+[开源软件是什么？有哪些？](http://c.biancheng.net/view/2943.html)  
+[开源协议是什么？有哪些？如何选择？](http://c.biancheng.net/view/2947.html)  
 
 - 掌握 Markdown 语法
-[Markdown 语法](https://www.runoob.com/markdown/md-tutorial.html)
-[Mastering Markdown - Github Guides](https://guides.github.com/features/mastering-markdown)
+[Markdown 语法](https://www.runoob.com/markdown/md-tutorial.html)  
+[Mastering Markdown - Github Guides](https://guides.github.com/features/mastering-markdown)  
 ### Linux:
 
 - 了解Linux的发展历史
@@ -36,10 +36,10 @@
 如果你喜欢折腾，可以购买一个云服务器（VPS），推荐阿里云学生机，1 CPU，512MB内存的VPS对于学习Linux，搭建小型网站完全够了
 你甚至可以在你的手机上使用Linux（通过Termux），或者为你的路由器安装Openwrt操作系统
 
-[启用CPU虚拟化](https://www.jianshu.com/p/3faa72872130)
-[VMware虚拟机安装Linux系统(详解版)](http://c.biancheng.net/view/714.html)
-[Win10下使用VMware Workstation Pro15 安装CentOS7](https://chacode.cn/smile/linux/213)
-[买了一台云服务器到底能干嘛？](https://www.zhihu.com/question/27205559)
+[启用CPU虚拟化](https://www.jianshu.com/p/3faa72872130)  
+[VMware虚拟机安装Linux系统(详解版)](http://c.biancheng.net/view/714.html)  
+[Win10下使用VMware Workstation Pro15 安装CentOS7](https://chacode.cn/smile/linux/213)  
+[买了一台云服务器到底能干嘛？](https://www.zhihu.com/question/27205559)  
 
 - 了解如何在VPS，虚拟机和本地电脑之间传输文件
 - 了解 Linux 系统目录结构（各个目录是干什么的）
@@ -55,10 +55,10 @@
 
 - 如果你安装了Linux桌面，熟悉Linux的桌面环境和常用工具的使用，并尝试在Linux上安装QQ
 
-[QQ·Linux版下载](https://im.qq.com/linuxqq/index.html)
-[命令行界面 （CLI）、终端 （Terminal）、Shell、TTY的区别](https://www.cnblogs.com/sddai/p/9769086.html)
-[Linux教程推荐](http://c.biancheng.net/linux_tutorial/10/)
-[Linux教程推荐](https://www.runoob.com/linux/linux-tutorial.html)
+[QQ·Linux版下载](https://im.qq.com/linuxqq/index.html)  
+[命令行界面 （CLI）、终端 （Terminal）、Shell、TTY的区别](https://www.cnblogs.com/sddai/p/9769086.html)  
+[Linux教程推荐](http://c.biancheng.net/linux_tutorial/10/)  
+[Linux教程推荐](https://www.runoob.com/linux/linux-tutorial.html)  
 
 ## 作业
 1. 常见Linux的发行版有哪些，最新版本和发布时间分别是多少？并描述不同发行版之间的联系和区别。你所安装的Linux发行版遵循什么开源协议？
