@@ -14,7 +14,7 @@
 - 使用Github Pages发布静态网站（可选）  
 [Git教程1](https://www.liaoxuefeng.com/wiki/896043488029600)   
 [Git教程2](https://www.runoob.com/git/git-tutorial.html)    
-[Git教程3](https://git-scm.com/book/zh/)   
+[一个小时学会Git](https://www.cnblogs.com/best/p/7474442.html)   
 [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)  
 [Github的学习和使用](https://www.e-learn.cn/content/qita/974817)  
 [开源软件是什么？有哪些？](http://c.biancheng.net/view/2943.html)  
