@@ -12,7 +12,6 @@
 - 下载并安装Git命令行工具，掌握常用的Git命令
 - 了解开源软件和常见开源协议 （`Apache`,`BSD`,`GPL`,`LGPL`,`MIT`)
 - 使用Github Pages发布静态网站（可选）  
-
 [Git教程1](https://www.liaoxuefeng.com/wiki/896043488029600)   
 [Git教程2](https://www.runoob.com/git/git-tutorial.html)    
 [Git教程3](https://git-scm.com/book/zh/)   
@@ -36,7 +35,6 @@
 虚拟机可选`VMvare Workstation`,`Oracle VM VirtualBox` 或 `Hyper-V`，配置虚拟机时，简单了解下虚拟机的几种联网方法  
 如果你喜欢折腾，可以购买一个云服务器（VPS），推荐阿里云学生机，1 CPU，512MB内存的VPS对于学习Linux，搭建小型网站完全够了
 你甚至可以在你的手机上使用Linux（通过Termux），或者为你的路由器安装Openwrt操作系统
-
 [启用CPU虚拟化](https://www.jianshu.com/p/3faa72872130)  
 [VMware虚拟机安装Linux系统(详解版)](http://c.biancheng.net/view/714.html)  
 [Win10下使用VMware Workstation Pro15 安装CentOS7](https://chacode.cn/smile/linux/213)  
@@ -55,7 +53,6 @@
 你可以通过ssh.exe命令行工具或者XShell，Putty第三方软件连接你的远程服务器
 
 - 如果你安装了Linux桌面，熟悉Linux的桌面环境和常用工具的使用，并尝试在Linux上安装QQ  
-
 [QQ·Linux版下载](https://im.qq.com/linuxqq/index.html)  
 [命令行界面 （CLI）、终端 （Terminal）、Shell、TTY的区别](https://www.cnblogs.com/sddai/p/9769086.html)  
 [Linux教程推荐](http://c.biancheng.net/linux_tutorial/10/)  
