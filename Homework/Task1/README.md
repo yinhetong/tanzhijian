@@ -12,6 +12,7 @@
 - 下载并安装Git命令行工具，掌握常用的Git命令
 - 了解开源软件和常见开源协议 （`Apache`,`BSD`,`GPL`,`LGPL`,`MIT`)
 - 使用Github Pages发布静态网站（可选）  
+
 [Git教程1](https://www.liaoxuefeng.com/wiki/896043488029600)   
 [Git教程2](https://www.runoob.com/git/git-tutorial.html)    
 [一个小时学会Git](https://www.cnblogs.com/best/p/7474442.html)   
@@ -19,7 +20,7 @@
 [Github的学习和使用](https://www.e-learn.cn/content/qita/974817)  
 [开源软件是什么？有哪些？](http://c.biancheng.net/view/2943.html)  
 [开源协议是什么？有哪些？如何选择？](http://c.biancheng.net/view/2947.html)  
-
+版本控制博大精深，目前只需要掌握Git里面的基本用法，不做深入研究    
 - 掌握 Markdown 语法  
 [Markdown 语法](https://www.runoob.com/markdown/md-tutorial.html)  
 [GitHub Flavored Markdown](https://www.jianshu.com/p/40ba812dd973)  
