@@ -5,6 +5,9 @@
 
 - [TASK 1 Git团队合作开发入门 & Linux入门-01 (Homework/Task1)](/Homework/Task1)
 
+## 提交方法
+
+- [作业提交说明](Homework/README.md)
 
 ## 目录结构
 
